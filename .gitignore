@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Datasets (BloodMNIST is downloaded by the medmnist package)
+data/
+*.npz
+
+# Model checkpoints and experiment artefacts
+*.pt
+*.pth
+*.ckpt
+*.joblib
+checkpoints/
+runs/
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

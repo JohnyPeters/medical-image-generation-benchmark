@@ -1,0 +1,11 @@
+# Versions are unpinned: the original runs were executed locally on Windows with
+# CUDA under Python 3.12, but exact package versions were not recorded.
+torch
+torchvision
+medmnist
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
