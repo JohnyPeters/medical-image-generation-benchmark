@@ -155,3 +155,8 @@ Developed with Alexandre Ferreira for the Advanced Machine Learning course of th
 MSc in Artificial Intelligence and Data Science, University of Coimbra
 (2024/2025). Parts of the implementation and documentation were written with
 GitHub Copilot assistance, as disclosed at the top of each notebook.
+
+## License
+
+Released under the MIT License — see [`LICENSE`](LICENSE). Copyright is shared
+with Alexandre Ferreira, who co-authored the project.
